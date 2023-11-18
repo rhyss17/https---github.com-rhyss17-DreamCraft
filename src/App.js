@@ -19,7 +19,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Log in Hereeeeeeeeeeeeee
+                Log in oy BOGO
               </NavLink>
               <NavLink
                 exact
