@@ -48,7 +48,7 @@ class App extends Component {
                 Register
               </NavLink>
             </div>
-
+//gwapo ko
             <Route exact path="/" component={SignUpForm} />
             <Route path="/sign-in" component={SignInForm} />
           </div>
