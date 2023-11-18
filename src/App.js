@@ -37,7 +37,7 @@ class App extends Component {
                 activeClassName="formTitleLink-active"
                 className="formTitleLink"
               >
-                Log in
+                Log innnnnnnnnnnnnn
               </NavLink>{" "}
               or{" "}
               <NavLink
