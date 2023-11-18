@@ -5,6 +5,7 @@ import SignInForm from "./pages/SignInForm";
 
 import "./App.css";
 //hello world
+// ATAYYYYYYYYYYYYYYYYYYY
 class App extends Component {
   render() {
     return (
@@ -48,7 +49,6 @@ class App extends Component {
                 Register
               </NavLink>
             </div>
-//gwapo ko
             <Route exact path="/" component={SignUpForm} />
             <Route path="/sign-in" component={SignInForm} />
           </div>
