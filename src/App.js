@@ -4,7 +4,10 @@ import SignUpForm from "./pages/SignUpForm";
 import SignInForm from "./pages/SignInForm";
 
 import "./App.css";
+//atayyyyyyyy
 //almedaaaa
+//hello world
+// ATAYYYYYYYYYYYYYYYYYYY
 class App extends Component {
   render() {
     return (
@@ -18,7 +21,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Sign In
+                Log in
               </NavLink>
               <NavLink
                 exact
@@ -26,7 +29,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Sign Up
+                Register
               </NavLink>
             </div>
 
@@ -36,7 +39,7 @@ class App extends Component {
                 activeClassName="formTitleLink-active"
                 className="formTitleLink"
               >
-                Sign In
+                Log in
               </NavLink>{" "}
               or{" "}
               <NavLink
@@ -45,10 +48,9 @@ class App extends Component {
                 activeClassName="formTitleLink-active"
                 className="formTitleLink"
               >
-                Sign Up
+                Register
               </NavLink>
             </div>
-
             <Route exact path="/" component={SignUpForm} />
             <Route path="/sign-in" component={SignInForm} />
           </div>
