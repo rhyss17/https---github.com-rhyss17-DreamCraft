@@ -27,7 +27,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Register
+                Registerrrrr
               </NavLink>
             </div>
 
