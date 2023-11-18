@@ -19,7 +19,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Log in oy BOGO
+                Log in
               </NavLink>
               <NavLink
                 exact
@@ -27,7 +27,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Registerrrrr
+                Register
               </NavLink>
             </div>
 
@@ -37,7 +37,7 @@ class App extends Component {
                 activeClassName="formTitleLink-active"
                 className="formTitleLink"
               >
-                Log innnnnnnnnnnnnn
+                Log in
               </NavLink>{" "}
               or{" "}
               <NavLink
