@@ -97,7 +97,7 @@ class SignUpForm extends Component {
           </div>
 
           <div className="formField">
-            <button className="formFieldButton">Register</button>{" "}
+            <button className="formFieldButton">Sign Up</button>{" "}
             <Link to="/sign-in" className="formFieldLink">
               I'm already member
             </Link>

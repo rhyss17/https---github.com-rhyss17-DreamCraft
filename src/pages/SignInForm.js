@@ -70,7 +70,7 @@ class SignInForm extends Component {
           </div>
 
           <div className="formField">
-            <button className="formFieldButton">Log In</button>{" "}
+            <button className="formFieldButton">Sign In</button>{" "}
             <Link to="/" className="formFieldLink">
               Create an account
             </Link>
