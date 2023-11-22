@@ -6,12 +6,14 @@
 
 .appAside {
   width: 50%;
-  background-color: #6b5b95;
+  background-image: url('/pics/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 .appForm {
   width: 50%;
-  background-color: #12130f;
+  background-color: #383063;
   padding: 25px 40px;
   overflow: auto;
 }

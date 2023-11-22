@@ -4,10 +4,12 @@ import SignUpForm from "./pages/SignUpForm";
 import SignInForm from "./pages/SignInForm";
 
 import "./App.css";
+
 //atayyyyyyyy
 //almedaaaa
 //hello world
 // ATAYYYYYYYYYYYYYYYYYYY
+//Gwapako
 class App extends Component {
   render() {
     return (
