@@ -6,7 +6,7 @@
 
 .appAside {
   width: 50%;
-  background-image: url('yoga.jpg');
+  background-image: url('/pics/bg.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
 }
